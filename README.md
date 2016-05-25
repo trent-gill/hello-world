@@ -1,2 +1,3 @@
 # hello-world
-Just another repository.
+
+I don't really know how to code but knowing how to navigate GitHub seems important. 
